@@ -7,8 +7,4 @@
     <differenceType>8001</differenceType>
     <className>com/google/api/client/repackaged/**</className>
   </difference>
-  <difference>
-    <differenceType>8001</differenceType>
-    <className>com/google/api/client/http/apache/**</className>
-  </difference>
 </differences>
